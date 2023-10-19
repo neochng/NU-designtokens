@@ -6,8 +6,11 @@
         "type": "color"
       },
       "800": {
-        "value": "#2208f2",
-        "type": "color"
+        "value": "#220844",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {}
+        }
       }
     },
     "red": {

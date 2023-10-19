@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "component/button": "enabled",
       "section/general": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "component/link": "enabled"
     },
     "group": "section"
   },
@@ -17,7 +18,8 @@
     "selectedTokenSets": {
       "component/button": "enabled",
       "section/sport": "enabled",
-      "core/core": "source"
+      "core/core": "source",
+      "component/link": "enabled"
     },
     "group": "section"
   },

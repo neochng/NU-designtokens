@@ -1,0 +1,12 @@
+{
+  "link": {
+    "text": {
+      "color": {
+        "default": {
+          "value": "{alias.action.color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
