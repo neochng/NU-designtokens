@@ -1,0 +1,14 @@
+{
+  "button": {
+    "color": {
+      "background": {
+        "primary": {
+          "default": {
+            "value": "alias.action.color.default",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

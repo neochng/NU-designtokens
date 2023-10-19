@@ -1,0 +1,12 @@
+{
+  "alias": {
+    "action": {
+      "color": {
+        "default": {
+          "value": "alias.action.color.default.dark",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "color": {
+    "blue": {
+      "600": {
+        "value": "#1f2544",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2208f2",
+        "type": "color"
+      }
+    },
+    "red": {
+      "600": {
+        "value": "#c40000",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ff4d4d",
+        "type": "color"
+      }
+    }
+  }
+}

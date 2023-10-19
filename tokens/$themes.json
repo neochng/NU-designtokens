@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "ebded97e9aa62728947bc4a6eb7c00d46d9bbebd",
+    "name": "general",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "section/general": "enabled",
+      "core/core": "source"
+    },
+    "group": "section"
+  },
+  {
+    "id": "b149c309e128a301b783272466b0736033a9dab1",
+    "name": "sport",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "section/sport": "enabled",
+      "core/core": "source"
+    },
+    "group": "section"
+  },
+  {
+    "id": "d504087af3b46abead07638f1dd81ca2274648c7",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/light": "enabled"
+    },
+    "group": "mode"
+  },
+  {
+    "id": "19600e667dd3d1105ef4bd1e9255de6f3f26c89a",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/dark": "enabled"
+    },
+    "group": "mode"
+  }
+]

@@ -1,8 +1,10 @@
 {
   "tokenSetOrder": [
-    "core",
-    "light",
-    "dark",
-    "theme"
+    "component/button",
+    "mode/light",
+    "mode/dark",
+    "section/general",
+    "section/sport",
+    "core/core"
   ]
 }
