@@ -4,11 +4,11 @@
       "color": {
         "default": {
           "light": {
-            "value": "color.blue.600",
+            "value": "{color.blue.600}",
             "type": "color"
           },
           "dark": {
-            "value": "color.blue.800",
+            "value": "{color.blue.800}",
             "type": "color"
           }
         }

@@ -3,7 +3,7 @@
     "action": {
       "color": {
         "default": {
-          "value": "alias.action.color.default.light",
+          "value": "{alias.action.color.default.light}",
           "type": "color"
         }
       }
