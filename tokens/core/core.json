@@ -339,7 +339,7 @@
           "type": "color"
         }
       },
-      "grey": {
+      "neutral": {
         "100": {
           "value": "#ffffff",
           "type": "color"
