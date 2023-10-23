@@ -7,7 +7,8 @@
       "component/button": "enabled",
       "section/general": "enabled",
       "core/core": "source",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "alias/alias": "enabled"
     },
     "group": "section"
   },
@@ -19,7 +20,8 @@
       "component/button": "enabled",
       "section/sport": "enabled",
       "core/core": "source",
-      "component/link": "enabled"
+      "component/link": "enabled",
+      "alias/alias": "enabled"
     },
     "group": "section"
   },
@@ -28,7 +30,13 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "section/economy": "disabled",
+      "section/techAndScience": "disabled",
+      "section/mediaAndCulture": "disabled",
+      "section/showbiz": "disabled",
+      "section/miscellaneous": "disabled",
+      "alias/alias": "disabled"
     },
     "group": "mode"
   },
@@ -37,8 +45,79 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "enabled"
+      "mode/dark": "enabled",
+      "section/economy": "disabled",
+      "section/techAndScience": "disabled",
+      "section/mediaAndCulture": "disabled",
+      "section/showbiz": "disabled",
+      "section/miscellaneous": "disabled",
+      "alias/alias": "disabled"
     },
     "group": "mode"
+  },
+  {
+    "id": "124679a2aa9dd7e4b7942bfefb2485e67b2f72a3",
+    "name": "economy",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/economy": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
+  },
+  {
+    "id": "a6053425db6961675acef5487169c2c25dd83d8e",
+    "name": "techAndScience",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/techAndScience": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
+  },
+  {
+    "id": "785296a7d9d8aa90310c7c67d3e9eff868aa8849",
+    "name": "mediaAndCulture",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/mediaAndCulture": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
+  },
+  {
+    "id": "ae044726e2912dbde9fc0688499b9a05acaf27ac",
+    "name": "miscellaneous",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/miscellaneous": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
+  },
+  {
+    "id": "b45a1f7fb14bbf884af2ed3859b836c746a33ab7",
+    "name": "showbiz",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/showbiz": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
   }
 ]

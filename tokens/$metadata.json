@@ -6,6 +6,12 @@
     "mode/dark",
     "section/general",
     "section/sport",
+    "section/economy",
+    "section/techAndScience",
+    "section/mediaAndCulture",
+    "section/showbiz",
+    "section/miscellaneous",
+    "alias/alias",
     "core/core"
   ]
 }
