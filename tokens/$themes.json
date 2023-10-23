@@ -30,13 +30,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/light": "enabled",
-      "section/economy": "disabled",
-      "section/techAndScience": "disabled",
-      "section/mediaAndCulture": "disabled",
-      "section/showbiz": "disabled",
-      "section/miscellaneous": "disabled",
-      "alias/alias": "disabled"
+      "mode/light": "enabled"
     },
     "group": "mode"
   },
@@ -45,13 +39,7 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "enabled",
-      "section/economy": "disabled",
-      "section/techAndScience": "disabled",
-      "section/mediaAndCulture": "disabled",
-      "section/showbiz": "disabled",
-      "section/miscellaneous": "disabled",
-      "alias/alias": "disabled"
+      "mode/dark": "enabled"
     },
     "group": "mode"
   },

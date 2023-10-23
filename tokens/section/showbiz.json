@@ -1,1 +1,50 @@
-{}
+{
+  "alias": {
+    "action": {
+      "color": {
+        "showbiz": {
+          "default": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

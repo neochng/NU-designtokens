@@ -2,9 +2,41 @@
   "alias": {
     "action": {
       "color": {
-        "default": {
-          "value": "{alias.action.color.default.dark}",
-          "type": "color"
+        "general": {
+          "default": {
+            "value": "{alias.action.color.general.default.dark}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.action.color.general.hover.dark}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{alias.action.color.general.active.dark}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.action.color.general.disabled.dark}",
+            "type": "color"
+          }
+        },
+        "commercial": {
+          "default": {
+            "value": "{alias.action.color.commercial.default.dark}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.action.color.commercial.hover.dark}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{alias.action.color.commercial.active.dark}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.action.color.commercial.disabled.dark}",
+            "type": "color"
+          }
         }
       }
     }

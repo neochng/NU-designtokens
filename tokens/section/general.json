@@ -2,14 +2,46 @@
   "alias": {
     "action": {
       "color": {
-        "default": {
-          "light": {
-            "value": "{color.blue.600}",
-            "type": "color"
+        "general": {
+          "default": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.neutral.400}",
+              "type": "color"
+            }
           },
-          "dark": {
-            "value": "{color.blue.800}",
-            "type": "color"
+          "hover": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            }
           }
         }
       }

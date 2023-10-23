@@ -4,7 +4,7 @@
       "background": {
         "primary": {
           "default": {
-            "value": "{alias.action.color.default}",
+            "value": "{alias.action.color.general.default}",
             "type": "color"
           }
         }
