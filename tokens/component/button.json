@@ -4,55 +4,55 @@
       "background": {
         "primary": {
           "default": {
-            "value": "{alias.action.color.background.primary.default.mode}",
+            "value": "{alias.action.color.primary.default.mode}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.action.color.background.primary.hover.mode}",
+            "value": "{alias.action.color.primary.hover.mode}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.action.color.background.primary.active.mode}",
+            "value": "{alias.action.color.primary.active.mode}",
             "type": "color"
           },
           "disabled": {
-            "value": "{alias.action.color.background.primary.disabled.mode}",
+            "value": "{alias.action.color.primary.disabled.mode}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{alias.action.color.background.secondary.default.mode}",
+            "value": "{alias.action.color.secondary.default.mode}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.action.color.background.secondary.hover.mode}",
+            "value": "{alias.action.color.secondary.hover.mode}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.action.color.background.secondary.active.mode}",
+            "value": "{alias.action.color.secondary.active.mode}",
             "type": "color"
           },
           "disabled": {
-            "value": "{alias.action.color.background.secondary.disabled.mode}",
+            "value": "{alias.action.color.secondary.disabled.mode}",
             "type": "color"
           }
         },
         "commercial": {
           "default": {
-            "value": "{alias.action.color.background.commercial.default.mode}",
+            "value": "{alias.action.color.commercial.default.mode}",
             "type": "color"
           },
           "hover": {
-            "value": "{alias.action.color.background.commercial.hover.mode}",
+            "value": "{alias.action.color.commercial.hover.mode}",
             "type": "color"
           },
           "active": {
-            "value": "{alias.action.color.background.commercial.active.mode}",
+            "value": "{alias.action.color.commercial.active.mode}",
             "type": "color"
           },
           "disabled": {
-            "value": "{alias.action.color.background.commercial.disabled.mode}",
+            "value": "{alias.action.color.commercial.disabled.mode}",
             "type": "color"
           }
         }
