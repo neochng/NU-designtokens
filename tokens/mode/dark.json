@@ -2,54 +2,54 @@
   "alias": {
     "action": {
       "color": {
-        "primary": {
+        "standard": {
           "default": {
             "mode": {
-              "value": "{alias.action.color.primary.default.dark}",
+              "value": "{alias.action.color.standard.default.dark}",
               "type": "color"
             }
           },
           "hover": {
             "mode": {
-              "value": "{alias.action.color.primary.hover.dark}",
+              "value": "{alias.action.color.standard.hover.dark}",
               "type": "color"
             }
           },
           "active": {
             "mode": {
-              "value": "{alias.action.color.primary.active.dark}",
+              "value": "{alias.action.color.standard.active.dark}",
               "type": "color"
             }
           },
           "disabled": {
             "mode": {
-              "value": "{alias.action.color.primary.disabled.dark}",
+              "value": "{alias.action.color.standard.disabled.dark}",
               "type": "color"
             }
           }
         },
-        "secondary": {
+        "inverted": {
           "default": {
             "mode": {
-              "value": "{alias.action.color.secondary.default.dark}",
+              "value": "{alias.action.color.inverted.default.dark}",
               "type": "color"
             }
           },
           "hover": {
             "mode": {
-              "value": "{alias.action.color.secondary.hover.dark}",
+              "value": "{alias.action.color.inverted.hover.dark}",
               "type": "color"
             }
           },
           "active": {
             "mode": {
-              "value": "{alias.action.color.secondary.active.dark}",
+              "value": "{alias.action.color.inverted.active.dark}",
               "type": "color"
             }
           },
           "disabled": {
             "mode": {
-              "value": "{alias.action.color.secondary.disabled.dark}",
+              "value": "{alias.action.color.inverted.disabled.dark}",
               "type": "color"
             }
           }
