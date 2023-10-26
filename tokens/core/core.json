@@ -834,6 +834,18 @@
         },
         "type": "boxShadow"
       }
+    },
+    "opacity": {
+      "button": {
+        "disabled": {
+          "value": "50%",
+          "type": "opacity"
+        },
+        "enabled": {
+          "value": "100%",
+          "type": "opacity"
+        }
+      }
     }
   }
 }
