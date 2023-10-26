@@ -4,7 +4,7 @@
       "color": {
         "general": {
           "default": {
-            "value": "{alias.action.color.general.default.light}",
+            "value": "{alias.action.color.general.active}",
             "type": "color"
           },
           "hover": {

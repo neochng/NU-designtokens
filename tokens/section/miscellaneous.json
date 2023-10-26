@@ -5,41 +5,41 @@
         "miscellaneous": {
           "default": {
             "light": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.teal.600}",
               "type": "color"
             },
             "dark": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             }
           },
           "hover": {
             "light": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.teal.600}",
               "type": "color"
             },
             "dark": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.neutral.300}",
               "type": "color"
             }
           },
           "active": {
             "light": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.teal.600}",
               "type": "color"
             },
             "dark": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.neutral.300}",
               "type": "color"
             }
           },
           "disabled": {
             "light": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.teal.600}",
               "type": "color"
             },
             "dark": {
-              "value": "{core.color.navy.1000}",
+              "value": "{core.color.neutral.100}",
               "type": "color"
             }
           }

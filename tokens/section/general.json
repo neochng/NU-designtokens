@@ -15,7 +15,7 @@
           },
           "hover": {
             "light": {
-              "value": "{core.color.navy.800}",
+              "value": "{core.color.navy.700}",
               "type": "color"
             },
             "dark": {
