@@ -2,89 +2,87 @@
   "alias": {
     "action": {
       "color": {
-        "background": {
-          "primary": {
-            "default": {
-              "light": {
-                "value": "{core.color.red.600}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
-              }
+        "primary": {
+          "default": {
+            "light": {
+              "value": "{core.color.red.600}",
+              "type": "color"
             },
-            "hover": {
-              "light": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.200}",
-                "type": "color"
-              }
-            },
-            "active": {
-              "light": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.400}",
-                "type": "color"
-              }
-            },
-            "disabled": {
-              "light": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.600}",
-                "type": "color"
-              }
+            "dark": {
+              "value": "{core.color.red.1000}",
+              "type": "color"
             }
           },
-          "secondary": {
-            "default": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
-              }
+          "hover": {
+            "light": {
+              "value": "{core.color.red.1000}",
+              "type": "color"
             },
-            "hover": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.200}",
-                "type": "color"
-              }
+            "dark": {
+              "value": "{core.color.red.200}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.red.1000}",
+              "type": "color"
             },
-            "active": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.400}",
-                "type": "color"
-              }
+            "dark": {
+              "value": "{core.color.red.400}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.red.1000}",
+              "type": "color"
             },
-            "disabled": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.red.600}",
-                "type": "color"
-              }
+            "dark": {
+              "value": "{core.color.red.600}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.red.1000}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.red.200}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.red.400}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.red.600}",
+              "type": "color"
             }
           }
         }

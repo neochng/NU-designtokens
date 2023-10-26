@@ -2,127 +2,125 @@
   "alias": {
     "action": {
       "color": {
-        "background": {
-          "primary": {
-            "default": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+        "primary": {
+          "default": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             },
-            "hover": {
-              "light": {
-                "value": "{core.color.navy.800}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              },
-              "dark": {
-                "value": "{core.color.neutral.300}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              }
-            },
-            "active": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              }
-            },
-            "disabled": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             }
           },
-          "secondary": {
-            "default": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+          "hover": {
+            "light": {
+              "value": "{core.color.navy.800}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             },
-            "hover": {
-              "light": {
-                "value": "{core.color.navy.800}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
-              },
-              "dark": {
-                "value": "{core.color.neutral.300}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+            "dark": {
+              "value": "{core.color.neutral.300}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             },
-            "active": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             },
-            "disabled": {
-              "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
-              },
-              "dark": {
-                "value": "{core.color.neutral.100}",
-                "type": "color",
-                "$extensions": {
-                  "studio.tokens": {}
-                }
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          },
+          "hover": {
+            "light": {
+              "value": "{core.color.navy.800}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            },
+            "dark": {
+              "value": "{core.color.neutral.300}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          },
+          "active": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
+              }
+            }
+          },
+          "disabled": {
+            "light": {
+              "value": "{core.color.navy.1000}",
+              "type": "color"
+            },
+            "dark": {
+              "value": "{core.color.neutral.100}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {}
               }
             }
           }

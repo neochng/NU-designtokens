@@ -3,7 +3,19 @@
     "text": {
       "color": {
         "default": {
-          "value": "{alias.action.color.default}",
+          "value": "{alias.action.color.primary.default.mode}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{alias.action.color.primary.hover.mode}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{alias.action.color.primary.active.mode}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{alias.action.color.primary.disabled.mode}",
           "type": "color"
         }
       }

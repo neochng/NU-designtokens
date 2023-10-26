@@ -2,83 +2,81 @@
   "alias": {
     "action": {
       "color": {
-        "background": {
-          "primary": {
-            "default": {
-              "mode": {
-                "value": "{alias.action.color.primary.default.dark}",
-                "type": "color"
-              }
-            },
-            "hover": {
-              "mode": {
-                "value": "{alias.action.color.primary.hover.dark}",
-                "type": "color"
-              }
-            },
-            "active": {
-              "mode": {
-                "value": "{alias.action.color.primary.active.dark}",
-                "type": "color"
-              }
-            },
-            "disabled": {
-              "mode": {
-                "value": "{alias.action.color.primary.disabled.dark}",
-                "type": "color"
-              }
+        "primary": {
+          "default": {
+            "mode": {
+              "value": "{alias.action.color.primary.default.dark}",
+              "type": "color"
             }
           },
-          "secondary": {
-            "default": {
-              "mode": {
-                "value": "{alias.action.color.secondary.default.dark}",
-                "type": "color"
-              }
-            },
-            "hover": {
-              "mode": {
-                "value": "{alias.action.color.secondary.hover.dark}",
-                "type": "color"
-              }
-            },
-            "active": {
-              "mode": {
-                "value": "{alias.action.color.secondary.active.dark}",
-                "type": "color"
-              }
-            },
-            "disabled": {
-              "mode": {
-                "value": "{alias.action.color.secondary.disabled.dark}",
-                "type": "color"
-              }
+          "hover": {
+            "mode": {
+              "value": "{alias.action.color.primary.hover.dark}",
+              "type": "color"
             }
           },
-          "commercial": {
-            "default": {
-              "mode": {
-                "value": "{alias.action.color.commercial.default.dark}",
-                "type": "color"
-              }
-            },
-            "hover": {
-              "mode": {
-                "value": "{alias.action.color.commercial.hover.dark}",
-                "type": "color"
-              }
-            },
-            "active": {
-              "mode": {
-                "value": "{alias.action.color.commercial.active.dark}",
-                "type": "color"
-              }
-            },
-            "disabled": {
-              "mode": {
-                "value": "{alias.action.color.commercial.disabled.dark}",
-                "type": "color"
-              }
+          "active": {
+            "mode": {
+              "value": "{alias.action.color.primary.active.dark}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "mode": {
+              "value": "{alias.action.color.primary.disabled.dark}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "mode": {
+              "value": "{alias.action.color.secondary.default.dark}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "mode": {
+              "value": "{alias.action.color.secondary.hover.dark}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "mode": {
+              "value": "{alias.action.color.secondary.active.dark}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "mode": {
+              "value": "{alias.action.color.secondary.disabled.dark}",
+              "type": "color"
+            }
+          }
+        },
+        "commercial": {
+          "default": {
+            "mode": {
+              "value": "{alias.action.color.commercial.default.dark}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "mode": {
+              "value": "{alias.action.color.commercial.hover.dark}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "mode": {
+              "value": "{alias.action.color.commercial.active.dark}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "mode": {
+              "value": "{alias.action.color.commercial.disabled.dark}",
+              "type": "color"
             }
           }
         }
