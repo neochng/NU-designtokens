@@ -7,21 +7,33 @@
             "default": {
               "light": {
                 "value": "{core.color.navy.1000}",
-                "type": "color"
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               },
               "dark": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "hover": {
               "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
+                "value": "{core.color.navy.800}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               },
               "dark": {
-                "value": "{core.color.red.200}",
-                "type": "color"
+                "value": "{core.color.neutral.300}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "active": {
@@ -30,18 +42,27 @@
                 "type": "color"
               },
               "dark": {
-                "value": "{core.color.red.400}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "disabled": {
               "light": {
                 "value": "{core.color.navy.1000}",
-                "type": "color"
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               },
               "dark": {
-                "value": "{core.color.red.600}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             }
           },
@@ -49,21 +70,33 @@
             "default": {
               "light": {
                 "value": "{core.color.navy.1000}",
-                "type": "color"
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               },
               "dark": {
-                "value": "{core.color.red.1000}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "hover": {
               "light": {
-                "value": "{core.color.navy.1000}",
-                "type": "color"
+                "value": "{core.color.navy.800}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               },
               "dark": {
-                "value": "{core.color.red.200}",
-                "type": "color"
+                "value": "{core.color.neutral.300}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "active": {
@@ -72,8 +105,11 @@
                 "type": "color"
               },
               "dark": {
-                "value": "{core.color.red.400}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             },
             "disabled": {
@@ -82,8 +118,11 @@
                 "type": "color"
               },
               "dark": {
-                "value": "{core.color.red.600}",
-                "type": "color"
+                "value": "{core.color.neutral.100}",
+                "type": "color",
+                "$extensions": {
+                  "studio.tokens": {}
+                }
               }
             }
           }
