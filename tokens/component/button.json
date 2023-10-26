@@ -19,6 +19,42 @@
             "value": "{alias.action.color.background.primary.disabled.mode}",
             "type": "color"
           }
+        },
+        "secondary": {
+          "default": {
+            "value": "{alias.action.color.background.secondary.default.mode}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.action.color.background.secondary.hover.mode}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{alias.action.color.background.secondary.active.mode}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.action.color.background.secondary.disabled.mode}",
+            "type": "color"
+          }
+        },
+        "commercial": {
+          "default": {
+            "value": "{alias.action.color.background.commercial.default.mode}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.action.color.background.commercial.hover.mode}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{alias.action.color.background.commercial.active.mode}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.action.color.background.commercial.disabled.mode}",
+            "type": "color"
+          }
         }
       }
     }

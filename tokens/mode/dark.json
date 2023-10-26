@@ -28,6 +28,58 @@
                 "type": "color"
               }
             }
+          },
+          "secondary": {
+            "default": {
+              "mode": {
+                "value": "{alias.action.color.background.secondary.default.dark}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "mode": {
+                "value": "{alias.action.color.background.secondary.hover.dark}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "mode": {
+                "value": "{alias.action.color.background.secondary.active.dark}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "mode": {
+                "value": "{alias.action.color.background.secondary.disabled.dark}",
+                "type": "color"
+              }
+            }
+          },
+          "commercial": {
+            "default": {
+              "mode": {
+                "value": "{alias.action.color.background.commercial.default.dark}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "mode": {
+                "value": "{alias.action.color.background.commercial.hover.dark}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "mode": {
+                "value": "{alias.action.color.background.commercial.active.dark}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "mode": {
+                "value": "{alias.action.color.background.commercial.disabled.dark}",
+                "type": "color"
+              }
+            }
           }
         }
       }
