@@ -4,7 +4,19 @@
       "background": {
         "primary": {
           "default": {
-            "value": "{alias.action.color.general}",
+            "value": "{alias.action.color.background.primary.default.mode}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{alias.action.color.background.primary.hover.mode}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{alias.action.color.background.primary.active.mode}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{alias.action.color.background.primary.disabled.mode}",
             "type": "color"
           }
         }

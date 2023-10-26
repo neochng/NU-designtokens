@@ -2,45 +2,47 @@
   "alias": {
     "action": {
       "color": {
-        "techAndScience": {
-          "default": {
-            "light": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
+        "background": {
+          "primary": {
+            "default": {
+              "light": {
+                "value": "{core.color.purple.1000}",
+                "type": "color"
+              },
+              "dark": {
+                "value": "{core.color.purple.1000}",
+                "type": "color"
+              }
             },
-            "dark": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "light": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
+            "hover": {
+              "light": {
+                "value": "{core.color.purple.1000}",
+                "type": "color"
+              },
+              "dark": {
+                "value": "{core.color.purple.200}",
+                "type": "color"
+              }
             },
-            "dark": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
-            }
-          },
-          "active": {
-            "light": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
+            "active": {
+              "light": {
+                "value": "{core.color.purple.1000}",
+                "type": "color"
+              },
+              "dark": {
+                "value": "{core.color.purple.400}",
+                "type": "color"
+              }
             },
-            "dark": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
-            }
-          },
-          "disabled": {
-            "light": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
-            },
-            "dark": {
-              "value": "{core.color.navy.1000}",
-              "type": "color"
+            "disabled": {
+              "light": {
+                "value": "{core.color.purple.1000}",
+                "type": "color"
+              },
+              "dark": {
+                "value": "{core.color.purple.600}",
+                "type": "color"
+              }
             }
           }
         }
