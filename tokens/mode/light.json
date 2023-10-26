@@ -2,81 +2,109 @@
   "alias": {
     "action": {
       "color": {
-        "primary": {
+        "standard": {
           "default": {
             "mode": {
-              "value": "{alias.action.color.primary.default.light}",
+              "value": "{alias.action.color.standard.default.light}",
               "type": "color"
             }
           },
           "hover": {
             "mode": {
-              "value": "{alias.action.color.primary.hover.light}",
+              "value": "{alias.action.color.standard.hover.light}",
               "type": "color"
             }
           },
           "active": {
             "mode": {
-              "value": "{alias.action.color.primary.active.light}",
+              "value": "{alias.action.color.standard.active.light}",
               "type": "color"
             }
           },
           "disabled": {
             "mode": {
-              "value": "{alias.action.color.primary.disabled.light}",
+              "value": "{alias.action.color.standard.disabled.light}",
               "type": "color"
             }
           }
         },
-        "secondary": {
+        "inverted": {
           "default": {
             "mode": {
-              "value": "{alias.action.color.secondary.default.light}",
+              "value": "{alias.action.color.inverted.default.light}",
               "type": "color"
             }
           },
           "hover": {
             "mode": {
-              "value": "{alias.action.color.secondary.hover.light}",
+              "value": "{alias.action.color.inverted.hover.light}",
               "type": "color"
             }
           },
           "active": {
             "mode": {
-              "value": "{alias.action.color.secondary.active.light}",
+              "value": "{alias.action.color.inverted.active.light}",
               "type": "color"
             }
           },
           "disabled": {
             "mode": {
-              "value": "{alias.action.color.secondary.disabled.light}",
+              "value": "{alias.action.color.inverted.disabled.light}",
               "type": "color"
             }
           }
         },
         "commercial": {
-          "default": {
-            "mode": {
-              "value": "{alias.action.color.commercial.default.light}",
-              "type": "color"
+          "standard": {
+            "default": {
+              "mode": {
+                "value": "{alias.action.color.commercial.standard.default.light}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "mode": {
+                "value": "{alias.action.color.commercial.standard.hover.light}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "mode": {
+                "value": "{alias.action.color.commercial.standard.active.light}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "mode": {
+                "value": "{alias.action.color.commercial.standard.disabled.light}",
+                "type": "color"
+              }
             }
           },
-          "hover": {
-            "mode": {
-              "value": "{alias.action.color.commercial.hover.light}",
-              "type": "color"
-            }
-          },
-          "active": {
-            "mode": {
-              "value": "{alias.action.color.commercial.active.light}",
-              "type": "color"
-            }
-          },
-          "disabled": {
-            "mode": {
-              "value": "{alias.action.color.commercial.disabled.light}",
-              "type": "color"
+          "inverted": {
+            "default": {
+              "mode": {
+                "value": "{alias.action.color.commercial.inverted.default.light}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "mode": {
+                "value": "{alias.action.color.commercial.inverted.hover.light}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "mode": {
+                "value": "{alias.action.color.commercial.inverted.active.light}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "mode": {
+                "value": "{alias.action.color.commercial.inverted.disabled.light}",
+                "type": "color"
+              }
             }
           }
         }

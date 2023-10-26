@@ -2,7 +2,7 @@
   "alias": {
     "action": {
       "color": {
-        "primary": {
+        "standard": {
           "default": {
             "light": {
               "value": "{core.color.purple.1000}",
@@ -44,7 +44,7 @@
             }
           }
         },
-        "secondary": {
+        "inverted": {
           "default": {
             "light": {
               "value": "{core.color.navy.1000}",

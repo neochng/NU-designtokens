@@ -57,6 +57,64 @@
           }
         }
       }
+    },
+    "text": {
+      "color": {
+        "primary": {
+          "default": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        },
+        "commercial": {
+          "default": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.color.neutral.100}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

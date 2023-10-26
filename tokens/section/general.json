@@ -2,7 +2,7 @@
   "alias": {
     "action": {
       "color": {
-        "primary": {
+        "standard": {
           "default": {
             "light": {
               "value": "{core.color.navy.1000}",
@@ -65,13 +65,19 @@
             }
           }
         },
-        "secondary": {
+        "inverted": {
           "default": {
             "light": {
               "value": "{core.color.navy.1000}",
               "type": "color",
               "$extensions": {
-                "studio.tokens": {}
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".5",
+                    "space": "srgb"
+                  }
+                }
               }
             },
             "dark": {
