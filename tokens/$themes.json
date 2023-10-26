@@ -26,24 +26,6 @@
     "group": "section"
   },
   {
-    "id": "d504087af3b46abead07638f1dd81ca2274648c7",
-    "name": "light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "mode/light": "enabled"
-    },
-    "group": "mode"
-  },
-  {
-    "id": "19600e667dd3d1105ef4bd1e9255de6f3f26c89a",
-    "name": "dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "mode/dark": "enabled"
-    },
-    "group": "mode"
-  },
-  {
     "id": "124679a2aa9dd7e4b7942bfefb2485e67b2f72a3",
     "name": "economy",
     "$figmaStyleReferences": {},
@@ -83,6 +65,19 @@
     "group": "section"
   },
   {
+    "id": "b45a1f7fb14bbf884af2ed3859b836c746a33ab7",
+    "name": "showbiz",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component/button": "enabled",
+      "component/link": "enabled",
+      "core/core": "source",
+      "section/showbiz": "enabled",
+      "alias/alias": "enabled"
+    },
+    "group": "section"
+  },
+  {
     "id": "ae044726e2912dbde9fc0688499b9a05acaf27ac",
     "name": "miscellaneous",
     "$figmaStyleReferences": {},
@@ -96,16 +91,21 @@
     "group": "section"
   },
   {
-    "id": "b45a1f7fb14bbf884af2ed3859b836c746a33ab7",
-    "name": "showbiz",
+    "id": "d504087af3b46abead07638f1dd81ca2274648c7",
+    "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "component/button": "enabled",
-      "component/link": "enabled",
-      "core/core": "source",
-      "section/showbiz": "enabled",
-      "alias/alias": "enabled"
+      "mode/light": "enabled"
     },
-    "group": "section"
+    "group": "mode"
+  },
+  {
+    "id": "19600e667dd3d1105ef4bd1e9255de6f3f26c89a",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/dark": "enabled"
+    },
+    "group": "mode"
   }
 ]
