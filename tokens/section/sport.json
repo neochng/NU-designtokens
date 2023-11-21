@@ -25,7 +25,7 @@
           },
           "active": {
             "light": {
-              "value": "{core.color.red.1000}",
+              "value": "{core.color.red.600}",
               "type": "color"
             },
             "dark": {

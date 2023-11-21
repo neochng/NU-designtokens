@@ -53,14 +53,26 @@
               "value": "{core.color.navy.1000}",
               "type": "color",
               "$extensions": {
-                "studio.tokens": {}
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.5",
+                    "space": "hsl"
+                  }
+                }
               }
             },
             "dark": {
               "value": "{core.color.neutral.100}",
               "type": "color",
               "$extensions": {
-                "studio.tokens": {}
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.5",
+                    "space": "hsl"
+                  }
+                }
               }
             }
           }
@@ -69,16 +81,7 @@
           "default": {
             "light": {
               "value": "{core.color.navy.1000}",
-              "type": "color",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "alpha",
-                    "value": ".5",
-                    "space": "srgb"
-                  }
-                }
-              }
+              "type": "color"
             },
             "dark": {
               "value": "{core.color.neutral.100}",
@@ -120,13 +123,28 @@
           "disabled": {
             "light": {
               "value": "{core.color.navy.1000}",
-              "type": "color"
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.5",
+                    "space": "hsl"
+                  }
+                }
+              }
             },
             "dark": {
               "value": "{core.color.neutral.100}",
               "type": "color",
               "$extensions": {
-                "studio.tokens": {}
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.5",
+                    "space": "hsl"
+                  }
+                }
               }
             }
           }
