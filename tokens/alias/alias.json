@@ -15,11 +15,11 @@
           },
           "hover": {
             "light": {
-              "value": "{core.color.green.400}",
+              "value": "{core.color.green.500}",
               "type": "color"
             },
             "dark": {
-              "value": "{core.color.green.400}",
+              "value": "{core.color.green.500}",
               "type": "color"
             }
           },
